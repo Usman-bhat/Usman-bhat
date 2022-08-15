@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Usman-bhat
 - 👀 I’m interested in Programming. 
-- 🌱 I’m currently learning programming. 
-- 💞️ I’m looking for internships.
+-     I know web development, 
+       Android app development etc.
+- 💞️ I’m looking for job.
 
 <!---
 Usman-bhat/Usman-bhat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
