@@ -5,10 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/__S_MAN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmanbhat" height="30" width="40" /></a>
+<a href="https://twitter.com/m_usmanbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmanbhat" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohammad-usman-bhat-75779716b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman bhat" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/usmanbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="usmanbhat" height="30" width="40" /></a>
-<a href="https://instagram.com/smanbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
