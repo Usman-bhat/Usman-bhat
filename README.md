@@ -4,6 +4,14 @@
 - 📫 How to reach me **ybhat39@gmail.com**
 - 🌐 Portfolio **https://usman-bhat.github.io/home/**
 
+<h3 align="left">Latest projects:</h3>
+<p align="left">
+<a href="https://alamaiqbal.vercel.app/" target="blank"><img align="center" src="https://alamaiqbal.vercel.app/image/iqbal_light.png" alt="usmanbhat" height="30" width="40" /></a>
+<a href="https://aerabulquran.vercel.app/" target="blank"><img align="center" src="https://aerabulquran.vercel.app/images/logowhite.png" alt="usman bhat" height="30" width="40" /></a>
+</p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_usmanbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usmanbhat" height="30" width="40" /></a>
