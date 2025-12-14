@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Usman Bhat</h1>
 <h3 align="center">A full stack developer and Android app developer from India</h3>
 
-- 📫 How to reach me **ybhat39@gmail.com**
+- 📫 How to reach me **bhattusman39@gmail.com**
 - 🌐 Portfolio **https://portfolio-mohammad.web.app/**
 
 <h3 align="left">Latest projects:</h3>
